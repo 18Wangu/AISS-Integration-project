@@ -18,7 +18,7 @@ import java.io.IOException;
 
 
 @RestController
-@RequestMapping("/videominer/channel")
+@RequestMapping("/youtubeminer/channel")
 public class YouTubeController {
 
     private final YouTubeAPIService youTubeAPIService;
